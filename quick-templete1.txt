@@ -1,0 +1,33 @@
+//Bismillahir Rahmanir Raheem,In the name of Almighty Allah(swt)
+//Mizanur Rahman -> miz1998an@gmail.com
+#include<bits/stdc++.h>
+using namespace std;
+#define sp " "
+#define nl "\n"
+#define br cout<<"\n"
+#define ff first
+#define ss second
+#define mp make_pair
+#define pb push_back
+#define ll long long int
+#define lop(i,n) for(i=0;i<n;i++)
+#define vsort(q) sort(q.begin(),q.end())
+#define vsortr(q) sort(q.rbegin(),q.rend())
+
+int main()
+{
+	int i, j, n;
+
+
+
+
+
+
+
+
+	return 0;
+}
+
+
+
+
